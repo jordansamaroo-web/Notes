@@ -1,0 +1,8 @@
+{
+  "name": "Web Page Study Note Generator",
+  "description": "Generate study notes, outlines, flashcards, and quizzes from web pages or text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
